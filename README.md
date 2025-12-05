@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=AshaNebula%2C+self+taught+developer.;C%2b%2b+my+beloved.)](https://git.io/typing-svg)
 
-<img src="./assets/images/bg2.jpg" alt="banner" align="right" width="440px">
 
 <h3 align=center>🌸 About me 💫</h3>
 <p>Hello, I'm AshaNebula!</p>
